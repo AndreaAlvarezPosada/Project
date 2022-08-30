@@ -1,0 +1,14 @@
+h1 {
+    color: red;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }
+  h2 {
+    color: purple;
+    font-weight: normal;
+    font-size: 40px;
+    font-family: Arial;
+    text-transform: uppercase;
+  }
